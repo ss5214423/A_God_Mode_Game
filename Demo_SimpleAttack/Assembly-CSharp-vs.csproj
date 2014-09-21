@@ -183,6 +183,7 @@
      <Compile Include="Assets\Scripts\Battle\BaseAttribute.cs" />
      <Compile Include="Assets\Scripts\Battle\BattleData.cs" />
      <Compile Include="Assets\Scripts\Battle\BattleEnum.cs" />
+     <Compile Include="Assets\Scripts\Battle\BattleInfo.cs" />
      <Compile Include="Assets\Scripts\Battle\BattleInterface.cs" />
      <Compile Include="Assets\Scripts\Battle\BattleMgr.cs" />
      <Compile Include="Assets\Scripts\Battle\BattleTeam.cs" />
